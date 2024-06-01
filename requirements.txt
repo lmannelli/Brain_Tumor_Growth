@@ -1,0 +1,7 @@
+numpy
+matplotlib
+tqdm
+opencv-python
+scipy
+nibabel
+h5py
